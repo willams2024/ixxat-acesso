@@ -1,0 +1,10 @@
+{
+  "formato": 1,
+  "algoritmo": "pbkdf2_sha256",
+  "iteracoes": 600000,
+  "sal": "7d17910d171011e125cfda3ee292f576",
+  "hash": "811d5114253346640bc7405d0a63cb93980bdf343eb0ba7016cbd658f13196b1",
+  "numero": 1,
+  "emitido_em": 1791493311,
+  "assinatura": "/wFzNuiqrTvFIG52YT+Y595iRQIx1e62CEVY595H1osCwmf9lNkSOmgYGNE2PFNujanwTzrlJqaunko1MuEDBQ=="
+}
